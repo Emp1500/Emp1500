@@ -2,6 +2,12 @@
 
 ###
 
+<h2 align="center"> 🛠️ Tools 🛠️</h2>
+
+###
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -40,6 +46,10 @@
 
 ###
 
+<h2 align="center">😄 Socials 😄<h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vedantwagh15" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
@@ -49,9 +59,18 @@
 
 ###
 
+<h2 align="center">🔥 Stats 🔥</h2>
+
+###
+
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emp1500&theme=gruvbox" alt="emp1500" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emp1500&radius=16&theme=gruvbox&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emp1500&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emp1500&radius=16&theme=gruvbox&area=true&order=5&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
 </div>
 
 ###
