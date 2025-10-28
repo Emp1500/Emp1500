@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emp1500&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emp1500&" alt="emp1500" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emp1500&radius=16&theme=gruvbox&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
