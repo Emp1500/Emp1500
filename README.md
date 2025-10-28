@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center"> 🛠️ Tools 🛠️</h2>
+<h2 align="center">🛠️ My Arsenal - Tools & Technologies I Build With 🎸</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="center">😄 Socials 😄<h2>
+<h2 align="center">🌐 Let's Connect ⚡</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h2 align="center">🔥 Stats 🔥</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 ###
 
