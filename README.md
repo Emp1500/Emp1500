@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-😄 Developer who builds, breaks, and rebuilds. Experiment constantly, learn from failures, and iterate until I create something exceptional. Because good code isn't written....it's refined through relentless iteration.🌱
+😄 Developer who builds, breaks, and rebuilds. Experiment constantly, learn from failures, and iterate until I create something exceptional. Because good code isn't written....it's refined through relentless iteration.I'm driven by constant experimentation and learning from every bug. I iterate until the solution isn't just good, it's exceptional. Because for me, code is never just written....it's refined. 🌱 
 </p>
 
 ###
