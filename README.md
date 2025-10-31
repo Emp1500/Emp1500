@@ -8,6 +8,7 @@
 😄 I build things, I break them, and I rebuild them better. That's my process.I'm driven by constant experimentation and learning from every single bug. I see failure not as an end, but as a critical data point for improvement. This relentless iteration continues until a solution is truly exceptional. Because for me, good code is never just written— it's forged, tested, and refined. 🌱
 </p>
 
+
 ###
 
 <h2 align="center">🛠️ My Arsenal - Tools & Technologies I Build With 🎸</h2>
@@ -52,6 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
 </div>
 
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
+
 ###
 
 <h2 align="center"> 🌟 Let's Connect and Create 🚀</h2>
@@ -65,6 +71,8 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="100" height="50" alt="stackoverflow logo"  />
 </div>
+
+
 
 ###
 
