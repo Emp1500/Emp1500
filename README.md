@@ -1,17 +1,17 @@
-<h1 align="center">✨ Vedant Wagh ✨</h1>
+<h1 align="center">Vedant Wagh</h1>
 
 <p align="center">
- Full Stack Developer | Music Production Enthusiast | Building Things That Matter
+  Full-Stack Developer &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; Music Producer
 </p>
 
 <p align="left">
-😄 I build things, I break them, and I rebuild them better. That's my process.I'm driven by constant experimentation and learning from every single bug. I see failure not as an end, but as a critical data point for improvement. This relentless iteration continues until a solution is truly exceptional. Because for me, good code is never just written— it's forged, tested, and refined. 🌱
+I build production-grade software with a focus on clarity, performance, and long-term maintainability. My process is rooted in iterative refinement — every bug is a feedback signal, every code review an opportunity to raise the standard. I hold the work to a high bar: not just functional, but well-structured, tested, and built to scale. Outside of engineering, I apply the same discipline to music production, where precision and creativity operate by the same rules.
 </p>
 
 
 ###
 
-<h2 align="center">🛠️ My Arsenal - Tools & Technologies I Build With 🎸</h2>
+<h2 align="center">Tools & Technologies</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="center"> 🌟 Let's Connect and Create 🚀</h2>
+<h2 align="center">Get in Touch</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats & Contributions 📈</h2>
+<h2 align="center">GitHub Activity</h2>
 
 ###
 
